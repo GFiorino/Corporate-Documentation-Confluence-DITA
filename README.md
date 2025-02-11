@@ -16,10 +16,10 @@ This project demonstrates how **Confluence** and **DITA (Darwin Information Typi
 
 ## Screenshots  
 ### Confluence Guide Example  
-![Confluence Page](INSERT_CONFLUENCE_SCREENSHOT_URL)  
+![Confluence Page](https://github.com/GFiorino/Corporate-Documentation-Confluence-DITA/blob/main/images/Confluence-Create.png?raw=true)  
 
 ### DITA in Oxygen XML  
-![DITA Project](INSERT_DITA_SCREENSHOT_URL)  
+![DITA Project]( )  
 
 ## Essential Oxygen XML Panels for Beginners  
 
