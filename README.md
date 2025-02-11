@@ -19,7 +19,8 @@ This project demonstrates how **Confluence** and **DITA (Darwin Information Typi
 ![Confluence Page](https://github.com/GFiorino/Corporate-Documentation-Confluence-DITA/blob/main/images/Confluence-Create.png?raw=true)  
 
 ### DITA in Oxygen XML  
-![DITA Project](https://github.com/GFiorino/Corporate-Documentation-Confluence-DITA/blob/main/images/OxygenXML-Panels.png?raw=true)  
+![DITA Project](https://github.com/user-attachments/assets/2275d238-8f41-434c-9404-16418600219f)
+  
 
 ## Essential Oxygen XML Panels for Beginners  
 
